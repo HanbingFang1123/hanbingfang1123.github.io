@@ -16,4 +16,4 @@ My research interests include:
 - Structure of singular sets
 - Classification of singularity models
 
-  Last updated: 2026/11/23
+Last updated: 2026/11/23
