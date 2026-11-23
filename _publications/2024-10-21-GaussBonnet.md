@@ -2,7 +2,7 @@
 title: "The Gauss-Bonnet formula of a conical metric on a compact Riemann surface"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-10-21-GaussBonnet.md
+permalink: /publication/2024-10-21-GaussBonnet
 date: 2024-10-21
 excerpt: 'with Bin Xu, Bairui Yang'
 paperurl: 'https://caod.oriprobe.com/articles/66942199/jin_li_man_qu_mian_shang_zhui_du_liang_de_gao_si_b.htm
