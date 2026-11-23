@@ -23,10 +23,10 @@ repository               : "hanbingfang1123/hanbingfang1123.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hanbingfang.png"
   name             : "Hanbing Fang"
-  pronouns         : # example: "he/him"  
-  bio              : #"Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "Postdoc in Mathematics"
   location         : #"Earth"
   employer         : "The Chinese University of Hong Kong"
   uri              : # URL
