@@ -5,4 +5,5 @@ category: manuscripts
 permalink: /publications/2024-10-21-GaussBonnet
 date: 2024-10-21
 excerpt: 'with Bin Xu, Bairui Yang'
-paperurl: 'https://caod.oriprobe.com/articles/66942199/jin_li_man_qu_mian_shang_zhui_du_liang_de_gao_si_b.htm'
+paperurl: 'https://arxiv.org/abs/1912.01187'
+---
