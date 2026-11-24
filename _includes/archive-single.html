@@ -48,6 +48,13 @@
           <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">arXiv</a>
         </p>
       {% endif %}
+    {% elsif post.collection == 'talks' %}
+      <p class="page__meta">
+        {% if post.location %}{{ post.location }}{% endif %}
+        {% if post.date %}
+          {% if post.location %} · {% endif %}{{ post.date | date: "%B %d, %Y" }}
+        {% endif %}
+      </p>
     {% elsif post.collection == 'teaching' %}
       <p class="page__meta">
         {{ post.type }}{% if post.venue %}, <i>{{ post.venue }}</i>{% endif %}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
