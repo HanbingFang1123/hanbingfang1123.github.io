@@ -19,4 +19,4 @@ Work experience
   * The Chinese University of Hong Kong
   * Mentor: Man-chun Lee
   
-[Download my CV (PDF)](/files/cv.pdf)
+[Download my CV (PDF)](/files/hanbingcv.pdf)
